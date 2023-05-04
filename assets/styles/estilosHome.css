@@ -1,0 +1,17 @@
+.banner{
+    background-image: url("../img/Banner.jpg");
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 28%;
+}
+
+.menu{
+    background-color: purple;
+}
+
+.h5{
+    margin-top: 20px;
+
+}
+
